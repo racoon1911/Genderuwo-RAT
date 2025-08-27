@@ -30,10 +30,23 @@ To build, modify, or repackage Genderuwo Bot APKs, you need the following tools:
 
 ### 🔹 Step-by-step Tutorial Videos
 
-1. 📼 [Part 1 - Setup APKTool & MT Manager](https://github.com/racoon1911/Genderuwo-RAT/raw/refs/heads/main/resources/part-1.mp4)
-2. 📼 [Part 2 - Modifying and Configuring the Bot](https://github.com/racoon1911/Genderuwo-RAT/raw/refs/heads/main/resources/part-2.mp4)
-3. 📼 [Part 3 - Setting Up the Telegram Bot](https://github.com/racoon1911/Genderuwo-RAT/raw/refs/heads/main/resources/part-3.mp4)
-4. 📼 [Part 4 - Finalizing and Testing](https://github.com/racoon1911/Genderuwo-RAT/raw/refs/heads/main/resources/part-4.mp4)
+
+## 🎥 Setup Tutorial Videos
+
+Click the thumbnails below to watch each part in your browser.
+
+### 📼 Part 1 – Setup APKTool & MT Manager
+[![Part 1](https://raw.githubusercontent.com/racoon1911/Genderuwo-RAT/refs/heads/main/resources/play.jpg)](https://racoon1911.github.io/Genderuwo-RAT/resources/part-1.mp4)
+
+### 📼 Part 2 – Modifying and Configuring the Bot
+[![Part 2](https://raw.githubusercontent.com/racoon1911/Genderuwo-RAT/refs/heads/main/resources/play.jpg)](https://racoon1911.github.io/Genderuwo-RAT/resources/part-2.mp4)
+
+### 📼 Part 3 – Setting Up the Telegram Bot
+[![Part 3](https://raw.githubusercontent.com/racoon1911/Genderuwo-RAT/refs/heads/main/resources/play.jpg)](https://racoon1911.github.io/Genderuwo-RAT/resources/part-3.mp4)
+
+### 📼 Part 4 – Finalizing and Testing
+[![Part 4](https://raw.githubusercontent.com/racoon1911/Genderuwo-RAT/refs/heads/main/resources/play.jpg)](https://racoon1911.github.io/Genderuwo-RAT/resources/part-4.mp4)
+
 
 ---
 
